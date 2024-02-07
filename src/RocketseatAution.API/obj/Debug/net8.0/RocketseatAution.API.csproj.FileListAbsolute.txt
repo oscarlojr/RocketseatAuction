@@ -31,3 +31,4 @@
 /Users/oscarjunior/Documents/Meus Projetos/dotNET_Studies/src/RocketseatAution.API/obj/Debug/net8.0/RocketseatAution.API.pdb
 /Users/oscarjunior/Documents/Meus Projetos/dotNET_Studies/src/RocketseatAution.API/obj/Debug/net8.0/RocketseatAution.API.genruntimeconfig.cache
 /Users/oscarjunior/Documents/Meus Projetos/dotNET_Studies/src/RocketseatAution.API/obj/Debug/net8.0/ref/RocketseatAution.API.dll
+/Users/oscarjunior/Documents/Meus Projetos/dotNET_Studies/src/RocketseatAution.API/obj/Debug/net8.0/RocketseatAution.API.sourcelink.json
