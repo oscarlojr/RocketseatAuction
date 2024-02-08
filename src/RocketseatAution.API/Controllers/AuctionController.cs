@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using RocketseatAution.API;
 
 namespace RocketseatAuction.API.Controllers;
 
@@ -8,14 +9,11 @@ namespace RocketseatAuction.API.Controllers;
 public class AuctionController : ControllerBase
 {
   [HttpGet]
-  public IActionResult GetActionResult()
+  public IActionResult GetCurrentAuction()
   {
-    return NotFound("Oscar");
-  }
-
-  [HttpGet("test")]
-  public IActionResult GetTest()
-  {
-    return Ok("Oscar");
+    var useCase = new GetCurrentAuctionUseCase();
+    
+    var result = useCase.Execute();
+    return Ok(result);
   }
 }
