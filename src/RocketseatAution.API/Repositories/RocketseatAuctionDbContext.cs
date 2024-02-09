@@ -1,9 +1,13 @@
-﻿using System.Data.Common;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using RocketseatAuction.API.Entities;
 
-namespace RocketseatAution.API.Repositories;
+namespace RocketseatAuction.API.Repositories;
 
 public class RocketseatAuctionDbContext : DbContext
 {
-
+    public DbSet<Auction> Auctions { get; set; }
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        optionsBuilder.UseSqlite(@"Data Source=/Users/oscarjunior/Documents/Meus Projetos/leilaoDbNLW.db");
+    }
 }
