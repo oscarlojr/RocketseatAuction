@@ -1,0 +1,2 @@
+# RocketseatAuction
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8bf1317da1754bdcb8a7357c515af95c)](https://app.codacy.com/gh/oscarlojr/RocketseatAuction?utm_source=github.com&utm_medium=referral&utm_content=oscarlojr/RocketseatAuction&utm_campaign=Badge_Grade)
