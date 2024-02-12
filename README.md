@@ -2,14 +2,10 @@
 <p align="center"><i>Repository dedicated to presenting the project created on the Rocketseat NLW event.</i></p>
 
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/github/languages/top/oscarlojr/RocketseatAuction
-  " alt="top-language"/>
-  <img src="https://img.shields.io/github/languages/count/oscarlojr/RocketseatAuction
-  " alt="number-of-languages"/>
-  <a href="https://app.codacy.com/gh/oscarlojr/RocketseatAuction/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade"><img src="https://app.codacy.com/project/badge/Grade/828972c895d6471f8dbd6c6cc293e048"/></a>
-  <a href="https://github.com/oscarlojr/RocketseatAuction">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/oscarlojr/RocketseatAuction">
-  </a>  
+  <img src="https://img.shields.io/github/languages/top/oscarlojr/RocketseatAuction" alt="top-language"/>
+  <img src="https://img.shields.io/github/languages/count/oscarlojr/RocketseatAuction" alt="number-of-languages"/>
+  <img src="https://app.codacy.com/project/badge/Grade/828972c895d6471f8dbd6c6cc293e048" alt="code-quality"/>
+  <img src="https://img.shields.io/github/last-commit/oscarlojr/RocketseatAuction" alt="GitHub last commit"> 
 </p>
 
 ##  About this project
