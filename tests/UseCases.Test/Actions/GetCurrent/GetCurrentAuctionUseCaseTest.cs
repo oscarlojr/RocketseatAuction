@@ -1,6 +1,6 @@
-﻿// using Bogus;
-// using FluentAssertions;
-// using Moq;
+﻿using Bogus;
+using FluentAssertions;
+using Moq;
 using RocketseatAuction.API.Contracts;
 using RocketseatAuction.API.Entities;
 using RocketseatAuction.API.Enums;
