@@ -36,11 +36,6 @@ Development of a C# back-end application with .NET, applying concepts of Control
    dotnet add package FluentAssertions --version 6.12.0
  ```
 
-### Fluent Assertions
- ```sh
-   dotnet add package FluentAssertions --version 6.12.0
- ```
-
 ### Microsoft EntityFramework Core
  ```sh
    dotnet add package Microsoft.EntityFrameworkCore
