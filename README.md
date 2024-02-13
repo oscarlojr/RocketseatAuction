@@ -1,4 +1,4 @@
-<h1 align="center">RocketseatAuction</h1>
+<h1 align="center">RocketseatAuction API</h1>
 <p align="center"><i>Repository dedicated to presenting the project created on the Rocketseat NLW event.</i></p>
 
 <p align="center" display="inline-block">
